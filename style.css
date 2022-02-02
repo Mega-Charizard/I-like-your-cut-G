@@ -1,0 +1,23 @@
+h3 
+{
+    font-size: 25px !important;
+}
+
+#green-red_btn:hover
+{
+    background-color: red;
+}
+
+
+canvas
+{
+    animation-name: Gurmeher;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+@keyframes Gurmeher 
+{
+    from{box-shadow: 1px 1px 38px white;}
+    to {box-shadow: 1px 1px 38px black;}
+    
+}
